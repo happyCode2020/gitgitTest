@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gitgitTest", "gitgitTest\gitgitTest.vcxproj", "{ED065CAA-B30E-4721-89C8-348CA61141D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Debug|x64.ActiveCfg = Debug|x64
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Debug|x64.Build.0 = Debug|x64
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Debug|x86.Build.0 = Debug|Win32
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Release|x64.ActiveCfg = Release|x64
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Release|x64.Build.0 = Release|x64
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Release|x86.ActiveCfg = Release|Win32
+		{ED065CAA-B30E-4721-89C8-348CA61141D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D2B3F9-0183-452C-81FA-AA6C5A9DB0BD}
+	EndGlobalSection
+EndGlobal
